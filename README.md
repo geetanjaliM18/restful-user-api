@@ -20,6 +20,10 @@ Includes authentication, routing, and basic CRUD operations.
 1. Clone the repo:  
    ```bash
    git clone https://github.com/yourusername/restful-user-api.git
+2. Navigate to the project folder:
+ ```bash
+   cd user-api-express
 
-
-   
+3.Install dependencies:
+ ```bash
+   npm install
