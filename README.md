@@ -26,7 +26,7 @@ Includes authentication, routing, and basic CRUD operations.
 3. Install dependencies
     ```bash
    npm install
-4.  Start the server:
+4. Start the server:
      ```bash
    npm start
   
